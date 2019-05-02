@@ -57,16 +57,24 @@ You are now inside your Project Directory!
 
 1. Type the following commands in order in Terminal!
 >git init
+
 >git add .
->git commit -m "first commit"
 
-2. Copy the url of your GitHub repository
+>git commit -m "First commit"
+
+2. Copy the url of your GitHub repository by clicking the green "Clone or download" and then clicking the clipboard symbol
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/CopyURL.png "Copy URL")
-3. Type the following command in terminal, replacing the word "link" with the URL of your GitHub repository
->git remote add origin link 
+3. Type the following command in terminal, replacing the word "url" with the URL of your GitHub repository
+>git remote add origin url 
 4. Type the following commands in order in Terminal!
->
->
->
+>git pull --rebase origin master
 
+>git rm -r --cached .
 
+>git add .
+
+>git commit -m "Applied .gitignore"
+
+>git push -u origin master
+
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6.png "Step 6")
