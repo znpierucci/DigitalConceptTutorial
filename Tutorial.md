@@ -1,6 +1,7 @@
 ## Step 1: Create a GitHub Repository
 
-Create a new repository and name it whatever you want.
+1. Name it whatever you want
+2. Initialize the respository with a README 
+3. Add a .gitignore with a tag of "Swift"
 
-1)Initialize the respository with a README 
-2)Add a .gitignore with a tag of "Swift"
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Step1")
