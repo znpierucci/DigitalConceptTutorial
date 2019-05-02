@@ -34,3 +34,15 @@ If you do not know where the Terminal program is, do the following
 3. Click the Terminal Program that looks like the following
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step4.png "Step 4")
+
+## Step 4: Locate Your Project Directory Using Terminal
+
+If your project is located on your desktop, 
+
+1. Type "cd Desktop"
+2. Type "cd HelloWorldExample" (or whatever your project is named)
+
+You are now inside your Project File!
+
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step5.png "Step 5")
+
