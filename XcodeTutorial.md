@@ -1,12 +1,12 @@
 # Creating an Xcode Project
 
-If you do not have Xcode downloaded on your computer, open the App store and Type "Xcode" and download it.
+If you do not have Xcode downloaded on your computer, download it from the App store.
 
 ## Step 1: Open Xcode
 
 If you dont know where Xcode is on your computer, press Command + SpaceBar, then type in "Xcode"
 
-Click the following Option
+Click the following option:
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/code1.png "Step 1")
 
