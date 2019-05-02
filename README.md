@@ -1,4 +1,4 @@
-# Swift GitHub Repository Tutorial
+# Swift Repository Tutorial
 
 ## by Zachary Pierucci
 
