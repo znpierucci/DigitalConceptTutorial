@@ -36,3 +36,5 @@ Place your project wherever on your computer that you'd like, then click "Next"
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/code5.png "Step 5")
 
 # Congratulations! You Have Successfully Created an Xcode Project!
+
+[click here to go back to the main page!](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/README.md)
