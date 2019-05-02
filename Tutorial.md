@@ -35,7 +35,7 @@ If you do not know where the Terminal program is, do the following
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step4.png "Step 4")
 
-## Step 4: Locate Your Project Directory Using Terminal
+## Step 5: Locate Your Project Directory Using Terminal
 
 To change directories, you must type in "cd" followed by the name of the folder or location you are looking to change into.
 
@@ -52,5 +52,21 @@ For example, if your project folder is on your desktop, do the following:
 You are now inside your Project Directory!
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step5.png "Step 5")
+
+## Step 6: Create 
+
+1. Type the following commands in order in Terminal!
+>git init
+>git add .
+>git commit -m "first commit"
+
+2. Copy the url of your GitHub repository
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/CopyURL.png "Copy URL")
+3. Type the following command in terminal, replacing the word "link" with the URL of your GitHub repository
+>git remote add origin link 
+4. Type the following commands in order in Terminal!
+>
+>
+>
 
 
