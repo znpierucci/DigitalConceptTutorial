@@ -41,7 +41,7 @@ To change directories, you must type in "cd" followed by the name of the folder 
 
 For example, if you would like to switch to your desktop, you must type in "cd Desktop"
 
-To change into your project directory, locate the path of the project folder, and cd into each location.
+To change into your project folder, locate the path of the project folder, and cd into the location, then cd into the project folder.
 
 For example, if your project folder is on your desktop, do the following:
 
