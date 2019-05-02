@@ -92,4 +92,4 @@ Your repository should now have all of the project files in it, rather than just
 
 # Congratulations! Your Swift Project now has a GitHub Repository!
 
-[click here](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/SourceControlTutorial.md) to learn how to use Source Control to update your repository as you write your code!
+[Click here](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/SourceControlTutorial.md) to learn how to use Source Control to update your repository as you write your code!
