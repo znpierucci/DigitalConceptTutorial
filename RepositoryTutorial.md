@@ -4,7 +4,7 @@
 2. Initialize the respository with a README 
 3. Add a .gitignore with a tag of "Swift"
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step1.png "Step 1")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step1.png "Step 1")
 
 
 ## Step 2: Edit .gitignore
@@ -15,7 +15,7 @@ When dealing with Swift, every project has .DS_Store files that must be ignored,
 2. Type ".DS_Store" on line 24 of the .gitignore file
 3. Commit the file
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step2.png "Step 2")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step2.png "Step 2")
 
 ## Step 3: Locate Your Xcode Project Folder
 
@@ -23,7 +23,7 @@ If you have not already created an Xcode project, [click here to learn how](http
 
 My Project folder is found in my desktop:
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step3.png "Step 3")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step3.png "Step 3")
 
 ## Step 4: Open Terminal
 
@@ -33,7 +33,7 @@ If you do not know where the Terminal program is, do the following
 2. Type in "Terminal"
 3. Click the Terminal Program that looks like the following
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step4.png "Step 4")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step4.png "Step 4")
 
 ## Step 5: Locate Your Project Directory Using Terminal
 
@@ -51,7 +51,7 @@ For example, if your project folder is on your desktop, do the following:
 
 You are now inside your Project Directory!
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step5.png "Step 5")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step5.png "Step 5")
 
 ## Step 6: Connect GitHub to your Project
 
@@ -63,10 +63,10 @@ You are now inside your Project Directory!
 >git commit -m "First commit"
 
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6.png "Step 6")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step6.png "Step 6")
 
 2. Copy the url of your GitHub repository by clicking the green "Clone or download" button on your repository home page and then clicking the clipboard symbol to copy it to your clipboard
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/CopyURL.png "Copy URL")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/CopyURL.png "Copy URL")
 3. Type the following command in terminal, replacing the word "url" with the URL of your GitHub repository
 >git remote add origin url 
 4. Type the following commands in order in Terminal
@@ -80,14 +80,14 @@ You are now inside your Project Directory!
 
 >git push -u origin master
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6p2.png "Step 6")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step6p2.png "Step 6")
 
 Your project is now connected to GitHub!
 
 Reload your repository to check it out.
 Your repository should now have all of the project files in it, rather than just the README.md and .gitignore
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6p3.png "Step 6")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step6p3.png "Step 6")
 
 
 # Congratulations! Your Swift Project now has a GitHub Repository!
