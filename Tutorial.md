@@ -53,7 +53,7 @@ You are now inside your Project Directory!
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step5.png "Step 5")
 
-## Step 6: Create 
+## Step 6: Connect GitHub to your Project
 
 1. Type the following commands in order in Terminal!
 >git init
@@ -62,7 +62,7 @@ You are now inside your Project Directory!
 
 >git commit -m "First commit"
 
-2. Copy the url of your GitHub repository by clicking the green "Clone or download" and then clicking the clipboard symbol
+2. Copy the url of your GitHub repository by clicking the green "Clone or download" button on your repository home page and then clicking the clipboard symbol to copy it to your clipboard
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/CopyURL.png "Copy URL")
 3. Type the following command in terminal, replacing the word "url" with the URL of your GitHub repository
 >git remote add origin url 
