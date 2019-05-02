@@ -6,3 +6,4 @@
 
 #### This tutorial is directed towards students who are learning how to program in Swift.
 
+[Click Here to Learn!](https://github.com/user/repo/blob/branch/other_file.md)
