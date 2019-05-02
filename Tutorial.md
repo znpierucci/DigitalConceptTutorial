@@ -37,12 +37,20 @@ If you do not know where the Terminal program is, do the following
 
 ## Step 4: Locate Your Project Directory Using Terminal
 
-If your project is located on your desktop, 
+To change directories, you must type in "cd" followed by the name of the folder or location you are looking to change into.
 
-1. Type "cd Desktop"
-2. Type "cd HelloWorldExample" (or whatever your project is named)
+For example, if you would like to switch to your desktop, you must type in "cd Desktop"
 
-You are now inside your Project File!
+To change into your project directory, locate the path of the project folder, and cd into each location.
+
+For example, if your project folder is on your desktop, do the following:
+
+1. Type "cd Desktop" and press enter
+2. Type "cd HelloWorldExample" (or whatever your project is named) and press enter
+3. Type "ls" and press enter to see all of your files
+
+You are now inside your Project Directory!
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step5.png "Step 5")
+
 
