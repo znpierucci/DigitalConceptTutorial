@@ -31,7 +31,6 @@ If you do not know where the Terminal program is, do the following
 
 1. Press Command + SpaceBar
 2. Type in "Terminal"
-3. Click the Terminal Program that looks like this
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Terminal.png "Terminal")
+3. Click the Terminal Program that looks like the following
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step4.png "Step 4")
