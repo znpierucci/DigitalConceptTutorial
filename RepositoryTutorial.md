@@ -94,13 +94,15 @@ Your repository should now have all of the project files in it, rather than just
 
 # Congratulations! Your Swift Project now has a GitHub Repository!
 
+
+
 ## Extra Step: Committing Your Project Without Having to Use Terminal Again
 
 Lets say your current project looks like this: 
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/commit1.png "Step 1")
 
-If you type some code, your online GitHub repository will not update. You have to manually commit your progress for it to show up on your online repository.
+If you type some code, your online GitHub repository will not update. You have to manually commit and push your progress for it to show up on your online repository.
 
 For example, if you type in some code on a project that has an online GitHub repository connected to it, there will be blue bars next to all of the lines of code that have been changed, to give the programmer a sense of what has been changed since the last commit. 
 
@@ -114,12 +116,12 @@ Click "Commit..." to commit these changes, and the following window should pop u
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/commit4.png "Step 4")
 
-Type in your commit message, which can be whatever you would like it to me, then make sure to check the "Push to remote" box if you would like it to automatically push to a certain branch. For this example, I am pushing to my "Master" branch becuase it is a small project with no other branches, but it is good practice to create different "Feature" branches and push to those, rather than Master.
+Type in your commit message, which can be whatever you would like it to be, then make sure to check the "Push to remote" box if you would like it to automatically push to a certain branch. 
+
+>Note: For this example, I am pushing to my "Master" branch becuase it is a small project with no other branches, but it is good practice to create different "Feature" branches, push your progress to those branches, then push those to master, rather than straight to master.
 
 Once those steps are done, click "Commit # File(s) and Push" button (this button will be different depending on how many files were modified) and then it will commit all of your changes to your online GitHub repository.
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/commit5.png "Step 5")
-
-# Congratulations! You now know how to commit without using Terminal!
 
 [Click here to go back to the main page](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/README.md)
