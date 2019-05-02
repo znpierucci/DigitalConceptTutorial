@@ -37,4 +37,4 @@ Place your project wherever on your computer that you'd like, then click "Next"
 
 # Congratulations! You Have Successfully Created an Xcode Project!
 
-[click here to go back to the main page!](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/README.md)
+[Click here to go back to the main page!](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/README.md)
