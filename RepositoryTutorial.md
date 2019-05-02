@@ -124,4 +124,6 @@ Once those steps are done, click "Commit # File(s) and Push" button (this button
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/commit5.png "Step 5")
 
+# Complete!
+
 [Click here to go back to the main page](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/README.md)
