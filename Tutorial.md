@@ -19,7 +19,7 @@ When dealing with Swift, every project has .DS_Store files that must be ignored,
 
 ## Step 3: Locate Your Xcode Project Folder
 
-If you have not already created an Xcode project, click here to learn how.
+If you have not already created an Xcode project, [click here to learn how](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/XcodeTutorial.md).
 
 My Project folder is found in my desktop:
 
