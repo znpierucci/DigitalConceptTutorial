@@ -1,3 +1,5 @@
+# Creating a GitHub Repository and Connecting it to Your Xcode Project
+
 ## Step 1: Create a GitHub Repository
 
 1. Name it whatever you want
