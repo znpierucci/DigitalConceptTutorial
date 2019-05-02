@@ -6,4 +6,4 @@
 
 #### This tutorial is directed towards students who are learning how to program in Swift.
 
-[Click Here to Learn!](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Tutorial.md)
+[Click Here to Learn!](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/RepositoryTutorial.md)
