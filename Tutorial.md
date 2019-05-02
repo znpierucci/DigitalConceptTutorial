@@ -55,18 +55,21 @@ You are now inside your Project Directory!
 
 ## Step 6: Connect GitHub to your Project
 
-1. Type the following commands in order in Terminal!
+1. Type the following commands in order in Terminal
 >git init
 
 >git add .
 
 >git commit -m "First commit"
 
+
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6.png "Step 6")
+
 2. Copy the url of your GitHub repository by clicking the green "Clone or download" button on your repository home page and then clicking the clipboard symbol to copy it to your clipboard
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/CopyURL.png "Copy URL")
 3. Type the following command in terminal, replacing the word "url" with the URL of your GitHub repository
 >git remote add origin url 
-4. Type the following commands in order in Terminal!
+4. Type the following commands in order in Terminal
 >git pull --rebase origin master
 
 >git rm -r --cached .
@@ -77,6 +80,11 @@ You are now inside your Project Directory!
 
 >git push -u origin master
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6.png "Step 6")
-
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6p2.png "Step 6")
+
+Your project is now connected to GitHub!
+
+Reload your repository to check it out.
+Your repository should now have all of the project files in it, rather than just the README.md and .gitignore
+
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6p3.png "Step 6")
