@@ -1,6 +1,6 @@
 # Creating an Xcode Project
 
-If you do not have Xcode downloaded on your computer, download it from the App store.
+If you do not have Xcode downloaded on your computer, download it from the App Store.
 
 ## Step 1: Open Xcode
 
@@ -21,18 +21,18 @@ Click "Create a new Xcode project"
 
 Click "Single View App" then click "Next"
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step3.png "Step 3")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/code3.png "Step 3")
 
 ## Step 4: Name Your Project
 
 Name your project whatever you like and click "Next"
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step4.png "Step 4")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/code4.png "Step 4")
 
 ## Step 5: Finish Creating Project
 
 Place your project wherever on your computer that you'd like, then click "Next"
 
-![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/Step5.png "Step 5")
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/images/code5.png "Step 5")
 
 # Congratulations! You Have Successfully Created an Xcode Project!
