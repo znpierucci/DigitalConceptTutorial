@@ -4,4 +4,4 @@
 2. Initialize the respository with a README 
 3. Add a .gitignore with a tag of "Swift"
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Step1")
+!(https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step1.png "Step1")
