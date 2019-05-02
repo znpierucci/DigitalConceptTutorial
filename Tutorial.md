@@ -78,3 +78,5 @@ You are now inside your Project Directory!
 >git push -u origin master
 
 ![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6.png "Step 6")
+
+![](https://github.com/znpierucci/DigitalConceptTutorial/blob/master/Step6p2.png "Step 6")
